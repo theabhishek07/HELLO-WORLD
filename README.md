@@ -21,77 +21,77 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Shell Scripting](Shell%20Scripting)
 
-[7. HTML](HTML%20Programming)
+- [ ]  HTML](HTML%20Programming)
 
-[8. Ruby](Ruby%20Programming)
+- [ ] Ruby](Ruby%20Programming)
 
-[9. R](R%20Programming)
+- [ ] R](R%20Programming)
 
-[10. TypeScript](TypeScript)
+- [ ] TypeScript](TypeScript)
 
-[11. Golang](Golang%20Programming)
+- [ ] Golang](Golang%20Programming)
 
-[12. Oracle SQL Plus](SQL%20Plus)
+- [ ] Oracle SQL Plus](SQL%20Plus)
 
-[13. PHP Programming](PHP%20Programming)
+- [ ] PHP Programming](PHP%20Programming)
 
-[14. C-Sharp Programming](C-Sharp/)
+- [ ] C-Sharp Programming](C-Sharp/)
 
-[15. Apple Swift programming](Swift/)
+- [ ] Apple Swift programming](Swift/)
 
-[16. Rust Programming](Rust)
+- [ ] Rust Programming](Rust)
 
-[17. Kotlin Programming](Kotlin/)
+- [ ] Kotlin Programming](Kotlin/)
 
-[18. Haskell Programming](Haskell/)
+- [ ] Haskell Programming](Haskell/)
 
-[19. F# Programming](F-Sharp/)
+- [ ] F# Programming](F-Sharp/)
 
-[20. CoffeeScript Programming](CoffeeScript/)
+- [ ] CoffeeScript Programming](CoffeeScript/)
 
-[21. Perl Programming](Perl%20Programming)
+- [ ] Perl Programming](Perl%20Programming)
 
-[22. JavaScript Programming](JavaScript%20Programming)
+- [ ] JavaScript Programming](JavaScript%20Programming)
 
-[23. Brainfuck](Brainfuck/)
+- [ ] Brainfuck](Brainfuck/)
 
-[24. Dart](Dart/)
+- [ ] Dart](Dart/)
 
-[25. Crystal Programming](Crystal%20Programming)
+- [ ] Crystal Programming](Crystal%20Programming)
 
-[26. Arduino](Arduino/)
+- [ ] Arduino](Arduino/)
 
-[27. Elixir](Elixir/)
+- [ ] Elixir](Elixir/)
 
-[28. VB.net](VB.net/)
+- [ ] VB.net](VB.net/)
 
-[29. Erlang](Erlang/)
+- [ ] Erlang](Erlang/)
 
-[30. Cobol](Cobol/)
+- [ ] Cobol](Cobol/)
 
-[31. ReactJS](ReactJS/)
+- [ ] ReactJS](ReactJS/)
 
-[32. Pascal](Pascal/)
+- [ ] Pascal](Pascal/)
 
-[33. Objective-C](Objective-C/)
+- [ ] Objective-C](Objective-C/)
 
-[34. Julia](Julia/)
+- [ ] Julia](Julia/)
 
-[35. Bash](Bash/)
+- [ ] Bash](Bash/)
 
-[36. Lolcode](lolcode/)
+- [ ] Lolcode](lolcode/)
 
-[37. Powershell](PowerShell/)
+- [ ] Powershell](PowerShell/)
 
-[38. Bosque](Bosque/)
+- [ ] Bosque](Bosque/)
 
-[39. Cow Esolang](COW%20-%20Esolang)
+- [ ] Cow Esolang](COW%20-%20Esolang)
 
-[40. Visual Basic](Visual%20Basic)
+- [ ] Visual Basic](Visual%20Basic)
 
-[41. Xamarin.Forms](XamarinForms)
+- [ ] Xamarin.Forms](XamarinForms)
 
-[42. Windows Command line](Windows%20Command%20Line)
+- [ ] Windows Command line](Windows%20Command%20Line)
 
 
 # Community Contributions
