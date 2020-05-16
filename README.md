@@ -37,61 +37,61 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [C-Sharp Programming](C-Sharp/)
 
-- [ ] [Apple Swift programming](Swift/)
+- [x] [Apple Swift programming](Swift/)
 
-- [ ] [Rust Programming](Rust)
+- [x] [Rust Programming](Rust)
 
-- [ ] [Kotlin Programming](Kotlin/)
+- [x] [Kotlin Programming](Kotlin/)
 
-- [ ] [Haskell Programming](Haskell/)
+- [x] [Haskell Programming](Haskell/)
 
-- [ ] [F# Programming](F-Sharp/)
+- [x] [F# Programming](F-Sharp/)
 
-- [ ] [CoffeeScript Programming](CoffeeScript/)
+- [x] [CoffeeScript Programming](CoffeeScript/)
 
-- [ ] [Perl Programming](Perl%20Programming)
+- [x] [Perl Programming](Perl%20Programming)
 
-- [ ] [JavaScript Programming](JavaScript%20Programming)
+- [x] [JavaScript Programming](JavaScript%20Programming)
 
-- [ ] [Brainfuck](Brainfuck/)
+- [x] [Brainfuck](Brainfuck/)
 
-- [ ] [Dart](Dart/)
+- [x] [Dart](Dart/)
 
-- [ ] [Crystal Programming](Crystal%20Programming)
+- [x] [Crystal Programming](Crystal%20Programming)
 
-- [ ] [Arduino](Arduino/)
+- [x] [Arduino](Arduino/)
 
-- [ ] [Elixir](Elixir/)
+- [x] [Elixir](Elixir/)
 
-- [ ] [VB.net](VB.net/)
+- [x] [VB.net](VB.net/)
 
-- [ ] [Erlang](Erlang/)
+- [x] [Erlang](Erlang/)
 
-- [ ] [Cobol](Cobol/)
+- [x] [Cobol](Cobol/)
 
-- [ ] [ReactJS](ReactJS/)
+- [x] [ReactJS](ReactJS/)
 
-- [ ] [Pascal](Pascal/)
+- [x] [Pascal](Pascal/)
 
-- [ ] [Objective-C](Objective-C/)
+- [x] [Objective-C](Objective-C/)
 
-- [ ] [Julia](Julia/)
+- [x] [Julia](Julia/)
 
-- [ ] [Bash](Bash/)
+- [x] [Bash](Bash/)
 
-- [ ] [Lolcode](lolcode/)
+- [x] [Lolcode](lolcode/)
 
-- [ ] [Powershell](PowerShell/)
+- [x] [Powershell](PowerShell/)
 
-- [ ] [Bosque](Bosque/)
+- [x] [Bosque](Bosque/)
 
-- [ ] [Cow Esolang](COW%20-%20Esolang)
+- [x] [Cow Esolang](COW%20-%20Esolang)
 
-- [ ] [Visual Basic](Visual%20Basic)
+- [x] [Visual Basic](Visual%20Basic)
 
-- [ ] [Xamarin.Forms](XamarinForms)
+- [x] [Xamarin.Forms](XamarinForms)
 
-- [ ] [Windows Command line](Windows%20Command%20Line)
+- [x] [Windows Command line](Windows%20Command%20Line)
 
 
 # Community Contributions
