@@ -65,7 +65,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [VB.net](VB.net/)
 
-- [x] [Erlang](Erlang/)
+- [ ] [Erlang](Erlang/)
 
 - [x] [Cobol](Cobol/)
 
