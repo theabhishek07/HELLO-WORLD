@@ -9,17 +9,17 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 # Languages
 
-- [x] C](C%20Programming)
+- [x] [C](C%20Programming)
 
-- [x] C++](Cpp%20Programming)
+- [x] [C++](Cpp%20Programming)
 
-- [x] Java](Java%20Programming)
+- [x] [Java](Java%20Programming)
 
-- [x] Scala](Scala)
+- [x] [Scala](Scala)
 
-- [x] Python](Python%20Programming)
+- [x] [Python](Python%20Programming)
 
-- [x] Shell Scripting](Shell%20Scripting)
+- [x] [Shell Scripting](Shell%20Scripting)
 
 [7. HTML](HTML%20Programming)
 
