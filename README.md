@@ -39,7 +39,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Apple Swift programming](Swift/)
 
-- [x] [Rust Programming](Rust)
+- [ ] [Rust Programming](Rust)
 
 - [x] [Kotlin Programming](Kotlin/)
 
@@ -51,7 +51,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Perl Programming](Perl%20Programming)
 
-- [x] [JavaScript Programming](JavaScript%20Programming)
+- [x] [JavaScript Programming](JavaScript)
 
 - [ ] [Brainfuck](Brainfuck/)
 
