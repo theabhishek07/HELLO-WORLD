@@ -19,7 +19,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Python](Python%20Programming)
 
-- ![x] [Shell Scripting](Shell%20Scripting)
+  [x] [Shell Scripting](Shell%20Scripting)
 
 [7. HTML](HTML%20Programming)
 
