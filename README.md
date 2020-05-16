@@ -19,9 +19,37 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Python](Python%20Programming)
 
-- [ ] [Shell Scripting](Shell%20Scripting)
-
 - [x] [HTML](HTML%20Programming)
+
+- [x] [Oracle SQL Plus](SQL%20Plus)
+
+- [x] [PHP Programming](PHP%20Programming)
+
+- [x] [C-Sharp Programming](C-Sharp/)
+
+- [x] [Kotlin Programming](Kotlin/)
+
+- [x] [CoffeeScript Programming](CoffeeScript/)
+
+- [x] [JavaScript Programming](JavaScript)
+
+- [x] [Cobol](Cobol/)
+
+- [x] [ReactJS](ReactJS/)
+
+- [x] [Julia](Julia/)
+
+- [x] [Bash](Bash/)
+
+- [x] [Dart](Dart/)
+
+- [x] [Bosque](Bosque/)
+
+- [x] [Arduino](Arduino/)
+
+- [x] [Windows Command line](Windows%20Command%20Line)
+
+- [ ] [Shell Scripting](Shell%20Scripting)
 
 - [ ] [Ruby](Ruby%20Programming)
 
@@ -31,35 +59,19 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Golang](Golang%20Programming)
 
-- [x] [Oracle SQL Plus](SQL%20Plus)
-
-- [x] [PHP Programming](PHP%20Programming)
-
-- [x] [C-Sharp Programming](C-Sharp/)
-
 - [ ] [Apple Swift programming](Swift/)
 
 - [ ] [Rust Programming](Rust)
-
-- [x] [Kotlin Programming](Kotlin/)
 
 - [ ] [Haskell Programming](Haskell/)
 
 - [ ] [F# Programming](F-Sharp/)
 
-- [x] [CoffeeScript Programming](CoffeeScript/)
-
 - [ ] [Perl Programming](Perl%20Programming)
-
-- [x] [JavaScript Programming](JavaScript)
 
 - [ ] [Brainfuck](Brainfuck/)
 
-- [x] [Dart](Dart/)
-
 - [ ] [Crystal Programming](Crystal%20Programming)
-
-- [x] [Arduino](Arduino/)
 
 - [ ] [Elixir](Elixir/)
 
@@ -67,31 +79,19 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Erlang](Erlang/)
 
-- [x] [Cobol](Cobol/)
-
-- [x] [ReactJS](ReactJS/)
-
 - [ ] [Pascal](Pascal/)
 
 - [ ] [Objective-C](Objective-C/)
 
-- [x] [Julia](Julia/)
-
-- [x] [Bash](Bash/)
-
 - [ ] [Lolcode](lolcode/)
 
 - [ ] [Powershell](PowerShell/)
-
-- [x] [Bosque](Bosque/)
 
 - [ ] [Cow Esolang](COW%20-%20Esolang)
 
 - [ ] [Visual Basic](Visual%20Basic)
 
 - [ ] [Xamarin.Forms](XamarinForms)
-
-- [x] [Windows Command line](Windows%20Command%20Line)
 
 
 # Community Contributions
