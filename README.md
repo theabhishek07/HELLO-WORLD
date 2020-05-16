@@ -19,23 +19,23 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Python](Python%20Programming)
 
-- [ ] [Shell Scripting](Shell%20Scripting)
+- [x] [Shell Scripting](Shell%20Scripting)
 
-- [ ] [HTML](HTML%20Programming)
+- [x] [HTML](HTML%20Programming)
 
-- [ ] [Ruby](Ruby%20Programming)
+- [x] [Ruby](Ruby%20Programming)
 
-- [ ] [R](R%20Programming)
+- [x] [R](R%20Programming)
 
-- [ ] [TypeScript](TypeScript)
+- [x] [TypeScript](TypeScript)
 
-- [ ] [Golang](Golang%20Programming)
+- [x] [Golang](Golang%20Programming)
 
-- [ ] [Oracle SQL Plus](SQL%20Plus)
+- [x] [Oracle SQL Plus](SQL%20Plus)
 
-- [ ] [PHP Programming](PHP%20Programming)
+- [x] [PHP Programming](PHP%20Programming)
 
-- [ ] [C-Sharp Programming](C-Sharp/)
+- [x] [C-Sharp Programming](C-Sharp/)
 
 - [ ] [Apple Swift programming](Swift/)
 
