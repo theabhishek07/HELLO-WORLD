@@ -21,77 +21,77 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Shell Scripting](Shell%20Scripting)
 
-- [ ]  HTML](HTML%20Programming)
+- [ ] [HTML](HTML%20Programming)
 
-- [ ] Ruby](Ruby%20Programming)
+- [ ] [Ruby](Ruby%20Programming)
 
-- [ ] R](R%20Programming)
+- [ ] [R](R%20Programming)
 
-- [ ] TypeScript](TypeScript)
+- [ ] [TypeScript](TypeScript)
 
-- [ ] Golang](Golang%20Programming)
+- [ ] [Golang](Golang%20Programming)
 
-- [ ] Oracle SQL Plus](SQL%20Plus)
+- [ ] [Oracle SQL Plus](SQL%20Plus)
 
-- [ ] PHP Programming](PHP%20Programming)
+- [ ] [PHP Programming](PHP%20Programming)
 
-- [ ] C-Sharp Programming](C-Sharp/)
+- [ ] [C-Sharp Programming](C-Sharp/)
 
-- [ ] Apple Swift programming](Swift/)
+- [ ] [Apple Swift programming](Swift/)
 
-- [ ] Rust Programming](Rust)
+- [ ] [Rust Programming](Rust)
 
-- [ ] Kotlin Programming](Kotlin/)
+- [ ] [Kotlin Programming](Kotlin/)
 
-- [ ] Haskell Programming](Haskell/)
+- [ ] [Haskell Programming](Haskell/)
 
-- [ ] F# Programming](F-Sharp/)
+- [ ] [F# Programming](F-Sharp/)
 
-- [ ] CoffeeScript Programming](CoffeeScript/)
+- [ ] [CoffeeScript Programming](CoffeeScript/)
 
-- [ ] Perl Programming](Perl%20Programming)
+- [ ] [Perl Programming](Perl%20Programming)
 
-- [ ] JavaScript Programming](JavaScript%20Programming)
+- [ ] [JavaScript Programming](JavaScript%20Programming)
 
-- [ ] Brainfuck](Brainfuck/)
+- [ ] [Brainfuck](Brainfuck/)
 
-- [ ] Dart](Dart/)
+- [ ] [Dart](Dart/)
 
-- [ ] Crystal Programming](Crystal%20Programming)
+- [ ] [Crystal Programming](Crystal%20Programming)
 
-- [ ] Arduino](Arduino/)
+- [ ] [Arduino](Arduino/)
 
-- [ ] Elixir](Elixir/)
+- [ ] [Elixir](Elixir/)
 
-- [ ] VB.net](VB.net/)
+- [ ] [VB.net](VB.net/)
 
-- [ ] Erlang](Erlang/)
+- [ ] [Erlang](Erlang/)
 
-- [ ] Cobol](Cobol/)
+- [ ] [Cobol](Cobol/)
 
-- [ ] ReactJS](ReactJS/)
+- [ ] [ReactJS](ReactJS/)
 
-- [ ] Pascal](Pascal/)
+- [ ] [Pascal](Pascal/)
 
-- [ ] Objective-C](Objective-C/)
+- [ ] [Objective-C](Objective-C/)
 
-- [ ] Julia](Julia/)
+- [ ] [Julia](Julia/)
 
-- [ ] Bash](Bash/)
+- [ ] [Bash](Bash/)
 
-- [ ] Lolcode](lolcode/)
+- [ ] [Lolcode](lolcode/)
 
-- [ ] Powershell](PowerShell/)
+- [ ] [Powershell](PowerShell/)
 
-- [ ] Bosque](Bosque/)
+- [ ] [Bosque](Bosque/)
 
-- [ ] Cow Esolang](COW%20-%20Esolang)
+- [ ] [Cow Esolang](COW%20-%20Esolang)
 
-- [ ] Visual Basic](Visual%20Basic)
+- [ ] [Visual Basic](Visual%20Basic)
 
-- [ ] Xamarin.Forms](XamarinForms)
+- [ ] [Xamarin.Forms](XamarinForms)
 
-- [ ] Windows Command line](Windows%20Command%20Line)
+- [ ] [Windows Command line](Windows%20Command%20Line)
 
 
 # Community Contributions
