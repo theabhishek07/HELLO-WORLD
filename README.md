@@ -19,17 +19,17 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Python](Python%20Programming)
 
-- [x] [Shell Scripting](Shell%20Scripting)
+- [ ] [Shell Scripting](Shell%20Scripting)
 
 - [x] [HTML](HTML%20Programming)
 
-- [x] [Ruby](Ruby%20Programming)
+- [ ] [Ruby](Ruby%20Programming)
 
-- [x] [R](R%20Programming)
+- [ ] [R](R%20Programming)
 
-- [x] [TypeScript](TypeScript)
+- [ ] [TypeScript](TypeScript)
 
-- [x] [Golang](Golang%20Programming)
+- [ ] [Golang](Golang%20Programming)
 
 - [x] [Oracle SQL Plus](SQL%20Plus)
 
@@ -37,33 +37,33 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [C-Sharp Programming](C-Sharp/)
 
-- [x] [Apple Swift programming](Swift/)
+- [ ] [Apple Swift programming](Swift/)
 
 - [x] [Rust Programming](Rust)
 
 - [x] [Kotlin Programming](Kotlin/)
 
-- [x] [Haskell Programming](Haskell/)
+- [ ] [Haskell Programming](Haskell/)
 
-- [x] [F# Programming](F-Sharp/)
+- [ ] [F# Programming](F-Sharp/)
 
 - [x] [CoffeeScript Programming](CoffeeScript/)
 
-- [x] [Perl Programming](Perl%20Programming)
+- [ ] [Perl Programming](Perl%20Programming)
 
 - [x] [JavaScript Programming](JavaScript%20Programming)
 
-- [x] [Brainfuck](Brainfuck/)
+- [ ] [Brainfuck](Brainfuck/)
 
 - [x] [Dart](Dart/)
 
-- [x] [Crystal Programming](Crystal%20Programming)
+- [ ] [Crystal Programming](Crystal%20Programming)
 
 - [x] [Arduino](Arduino/)
 
-- [x] [Elixir](Elixir/)
+- [ ] [Elixir](Elixir/)
 
-- [x] [VB.net](VB.net/)
+- [ ] [VB.net](VB.net/)
 
 - [x] [Erlang](Erlang/)
 
@@ -71,25 +71,25 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [ReactJS](ReactJS/)
 
-- [x] [Pascal](Pascal/)
+- [ ] [Pascal](Pascal/)
 
-- [x] [Objective-C](Objective-C/)
+- [ ] [Objective-C](Objective-C/)
 
-- [x] [Julia](Julia/)
+- [ ] [Julia](Julia/)
 
 - [x] [Bash](Bash/)
 
-- [x] [Lolcode](lolcode/)
+- [ ] [Lolcode](lolcode/)
 
-- [x] [Powershell](PowerShell/)
+- [ ] [Powershell](PowerShell/)
 
 - [x] [Bosque](Bosque/)
 
-- [x] [Cow Esolang](COW%20-%20Esolang)
+- [ ] [Cow Esolang](COW%20-%20Esolang)
 
-- [x] [Visual Basic](Visual%20Basic)
+- [ ] [Visual Basic](Visual%20Basic)
 
-- [x] [Xamarin.Forms](XamarinForms)
+- [ ] [Xamarin.Forms](XamarinForms)
 
 - [x] [Windows Command line](Windows%20Command%20Line)
 
