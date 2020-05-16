@@ -75,7 +75,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Objective-C](Objective-C/)
 
-- [ ] [Julia](Julia/)
+- [x] [Julia](Julia/)
 
 - [x] [Bash](Bash/)
 
