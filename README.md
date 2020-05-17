@@ -73,7 +73,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Crystal Programming](Crystal%20Programming)
 
-- [ ] [Elixir](Elixir/)
+- [x] [Elixir](Elixir/)
 
 - [ ] [VB.net](VB.net/)
 
