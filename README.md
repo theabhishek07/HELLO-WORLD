@@ -49,7 +49,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Windows Command line](Windows%20Command%20Line)
 
-- [ ] [Shell Scripting](Shell%20Scripting)
+- [x] [Shell Scripting](Shell%20Scripting)
 
 - [ ] [Ruby](Ruby%20Programming)
 
