@@ -55,9 +55,11 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Elixir](Elixir/)
 
-- [ ] [Ruby](Ruby%20Programming)
-
 - [x] [R](R%20Programming)
+
+- [ ] [Crystal Programming](Crystal%20Programming)
+
+- [ ] [Ruby](Ruby%20Programming)
 
 - [ ] [TypeScript](TypeScript)
 
@@ -74,8 +76,6 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 - [ ] [Perl Programming](Perl%20Programming)
 
 - [ ] [Brainfuck](Brainfuck/)
-
-- [ ] [Crystal Programming](Crystal%20Programming)
 
 - [ ] [VB.net](VB.net/)
 
