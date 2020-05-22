@@ -51,6 +51,10 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Shell Scripting](Shell%20Scripting)
 
+- [x] [Pascal](Pascal/)
+
+- [x] [Elixir](Elixir/)
+
 - [ ] [Ruby](Ruby%20Programming)
 
 - [ ] [R](R%20Programming)
@@ -73,13 +77,9 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Crystal Programming](Crystal%20Programming)
 
-- [x] [Elixir](Elixir/)
-
 - [ ] [VB.net](VB.net/)
 
 - [ ] [Erlang](Erlang/)
-
-- [ ] [Pascal](Pascal/)
 
 - [ ] [Objective-C](Objective-C/)
 
