@@ -57,7 +57,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [R](R%20Programming)
 
-- [ ] [Crystal Programming](Crystal%20Programming)
+- [x] [Crystal Programming](Crystal%20Programming)
 
 - [ ] [Ruby](Ruby%20Programming)
 
