@@ -57,7 +57,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Ruby](Ruby%20Programming)
 
-- [ ] [R](R%20Programming)
+- [x] [R](R%20Programming)
 
 - [ ] [TypeScript](TypeScript)
 
