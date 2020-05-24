@@ -59,13 +59,13 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Crystal Programming](Crystal%20Programming)
 
+- [x] [Apple Swift programming](Swift/)
+
 - [ ] [Ruby](Ruby%20Programming)
 
 - [ ] [TypeScript](TypeScript)
 
 - [ ] [Golang](Golang%20Programming)
-
-- [ ] [Apple Swift programming](Swift/)
 
 - [ ] [Rust Programming](Rust)
 
