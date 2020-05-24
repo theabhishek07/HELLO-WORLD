@@ -55,7 +55,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Elixir](Elixir/)
 
-- [x] [R](R%20Programming)
+- [x] [R](R)
 
 - [x] [Crystal Programming](Crystal%20Programming)
 
