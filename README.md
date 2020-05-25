@@ -61,6 +61,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Apple Swift programming](Swift/)
 
+- [x] [Cow Esolang](COW%20-%20Esolang)
+
 - [ ] [Ruby](Ruby%20Programming)
 
 - [ ] [TypeScript](TypeScript)
@@ -86,8 +88,6 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 - [ ] [Lolcode](lolcode/)
 
 - [ ] [Powershell](PowerShell/)
-
-- [ ] [Cow Esolang](COW%20-%20Esolang)
 
 - [ ] [Visual Basic](Visual%20Basic)
 
