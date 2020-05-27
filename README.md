@@ -63,6 +63,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Cow Esolang](COW%20-%20Esolang)
 
+- [x] [Nim](Nim/)
+
 - [x] [Erlang](Erlang/)
 
 - [ ] [Ruby](Ruby%20Programming)
