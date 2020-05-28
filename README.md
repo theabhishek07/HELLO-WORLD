@@ -67,7 +67,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Erlang](Erlang/)
 
-- [ ] [Ruby](Ruby%20Programming)
+- [x] [Ruby](Ruby%20Programming)
 
 - [ ] [TypeScript](TypeScript)
 
