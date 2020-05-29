@@ -4,4 +4,4 @@ function greeter(noun) {
 
 let noun = "World";
 
-document.body.textContent = greeter(user);
+document.body.textContent = greeter(noun);
