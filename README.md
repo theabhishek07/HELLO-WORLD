@@ -69,7 +69,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Ruby](Ruby%20Programming)
 
-- [ ] [TypeScript](TypeScript)
+- [x] [TypeScript](TypeScript)
 
 - [ ] [Golang](Golang%20Programming)
 
