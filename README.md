@@ -9,7 +9,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 # Languages
 
-- [x] [C](C)
+- [] [C](C)
 
 - [x] [C++](Cpp%20Programming)
 
