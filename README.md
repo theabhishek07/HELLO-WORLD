@@ -71,13 +71,13 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [TypeScript](TypeScript)
 
+- [x] [F# Programming](F-Sharp/)
+
 - [ ] [Golang](Golang%20Programming)
 
 - [ ] [Rust Programming](Rust)
 
 - [ ] [Haskell Programming](Haskell/)
-
-- [ ] [F# Programming](F-Sharp/)
 
 - [ ] [Perl Programming](Perl%20Programming)
 
