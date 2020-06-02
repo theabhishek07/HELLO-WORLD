@@ -73,9 +73,9 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [F# Programming](F-Sharp/)
 
-- [ ] [Golang](Golang%20Programming)
+- [x] [Golang](Golang%20Programming)
 
-- [ ] [Rust Programming](Rust)
+- [x] [Rust Programming](Rust)
 
 - [ ] [Haskell Programming](Haskell/)
 
