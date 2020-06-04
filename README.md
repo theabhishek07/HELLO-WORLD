@@ -73,6 +73,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [F# Programming](F-Sharp/)
 
+- [x] [Xamarin.Forms](XamarinForms)
+
 - [ ] [Golang](Golang%20Programming)
 
 - [ ] [Rust Programming](Rust)
@@ -92,8 +94,6 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 - [ ] [Powershell](PowerShell/)
 
 - [ ] [Visual Basic](Visual%20Basic)
-
-- [ ] [Xamarin.Forms](XamarinForms)
 
 
 # Community Contributions
