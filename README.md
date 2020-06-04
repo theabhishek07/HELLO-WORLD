@@ -73,13 +73,9 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [F# Programming](F-Sharp/)
 
-<<<<<<< HEAD
 - [x] [Xamarin.Forms](XamarinForms)
 
-- [ ] [Golang](Golang%20Programming)
-=======
 - [x] [Golang](Golang%20Programming)
->>>>>>> 5eefa8366b865112fc85b5967cd87573bea20ae4
 
 - [x] [Rust Programming](Rust)
 
