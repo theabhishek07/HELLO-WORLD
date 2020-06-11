@@ -79,6 +79,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Rust Programming](Rust)
 
+- [ ] [Objective-C](Objective-C/)
+
 - [ ] [Haskell Programming](Haskell/)
 
 - [ ] [Perl Programming](Perl%20Programming)
@@ -86,8 +88,6 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 - [ ] [Brainfuck](Brainfuck/)
 
 - [ ] [VB.net](VB.net/)
-
-- [ ] [Objective-C](Objective-C/)
 
 - [ ] [Lolcode](lolcode/)
 
