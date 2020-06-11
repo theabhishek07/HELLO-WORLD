@@ -79,7 +79,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Rust Programming](Rust)
 
-- [ ] [Objective-C](Objective-C/)
+- [x] [Objective-C](Objective-C/)
 
 - [ ] [Haskell Programming](Haskell/)
 
