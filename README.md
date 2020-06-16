@@ -81,7 +81,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Objective-C](Objective-C/)
 
-- [ ] [Haskell Programming](Haskell/)
+- [x] [Haskell Programming](Haskell/)
 
 - [ ] [Perl Programming](Perl%20Programming)
 
