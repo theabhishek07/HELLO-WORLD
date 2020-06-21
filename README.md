@@ -83,7 +83,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Haskell Programming](Haskell/)
 
-- [ ] [Perl Programming](Perl%20Programming)
+- [x] [Perl Programming](Perl%20Programming)
 
 - [ ] [Brainfuck](Brainfuck/)
 
