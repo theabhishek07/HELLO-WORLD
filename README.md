@@ -85,7 +85,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Perl Programming](Perl%20Programming)
 
-- [ ] [Brainfuck](Brainfuck/)
+- [x] [Brainfuck](Brainfuck/)
 
 - [ ] [VB.net](VB.net/)
 
