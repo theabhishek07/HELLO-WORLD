@@ -87,7 +87,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Brainfuck](Brainfuck/)
 
-- [ ] [VB.net](VB.net/)
+- [x] [VB.net](VB.net/)
 
 - [ ] [Lolcode](lolcode/)
 
