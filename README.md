@@ -91,7 +91,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Lolcode](lolcode/)
 
-- [ ] [Powershell](PowerShell/)
+- [x] [Powershell](PowerShell/)
 
 - [x] [Visual Basic](Visual%20Basic)
 
