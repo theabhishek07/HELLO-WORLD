@@ -93,7 +93,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [ ] [Powershell](PowerShell/)
 
-- [ ] [Visual Basic](Visual%20Basic)
+- [x] [Visual Basic](Visual%20Basic)
 
 
 # Community Contributions
