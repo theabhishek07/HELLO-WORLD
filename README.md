@@ -45,7 +45,7 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 - [x] [Bosque](Bosque/)
 
-- [x] [Arduino](Arduino/)
+- [] [Arduino](Arduino/)
 
 - [x] [Windows Command line](Windows%20Command%20Line)
 
